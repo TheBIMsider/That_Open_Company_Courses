@@ -9,4 +9,4 @@ The step-by-step path to go from knowing zero about programming to becoming a BI
 This is a 16-lesson module with the final result being a static website to be used as the base of the future modules. 
 This website will have a place for AECO Projects, Users, To-do lists, and an IFC model viewer. But first, we need to design the basic static website, which is this module's challenge.
 
-[Module 1 Project]
+[Module 1 Project](https://thebimsider.github.io/That_Open_Company_Courses/Mod1/)
