@@ -13,12 +13,10 @@ This is the final project from Module 1, no JavaScript yet so no working buttons
 
 [Module 1 Project](https://thebimsider.github.io/That_Open_Company_Courses/Mod1/)
 
-Here are some examples of other pages and forms
+Here are some examples of the "New user form" and "User list page"
 
-User Form 
 ![User Form](https://github.com/TheBIMsider/That_Open_Company_Courses/blob/main/images/Level_1_Challenge_CS_Form.png)
 
-Users Page 
 ![User List](https://github.com/TheBIMsider/That_Open_Company_Courses/blob/main/images/Level_1_Challenge_CS_User_List.png)
 
 ### Module 2: Creating Interactive Websites
