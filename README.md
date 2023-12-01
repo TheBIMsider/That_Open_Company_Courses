@@ -13,7 +13,7 @@ This is the final project from Module 1, there is no JavaScript yet, so no worki
 
 [Module 1 Project](https://thebimsider.github.io/That_Open_Company_Courses/Mod1/)
 
-Here are some examples of the "New user form" and "User list page"
+Here are some examples of the "New User form" and "Users page"
 
 ![User Form](https://github.com/TheBIMsider/That_Open_Company_Courses/blob/main/images/Level_1_Challenge_CS_Form.png)
 
