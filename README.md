@@ -12,6 +12,7 @@ This website will have a place for AECO Projects, Users, To-do lists, and an IFC
 [Module 1 Project](https://thebimsider.github.io/That_Open_Company_Courses/Mod1/)
 
 ![User Form](https://github.com/TheBIMsider/That_Open_Company_Courses/blob/main/images/Level_1_Challenge_CS_Form.png)
+![User List](https://github.com/TheBIMsider/That_Open_Company_Courses/blob/main/images/Level_1_Challenge_CS_User_List.png)
 ### Module 2: Creating Interactive Websites
 More coming soon
 
