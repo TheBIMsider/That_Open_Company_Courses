@@ -10,3 +10,9 @@ This is a 16-lesson module with the final result being a static website to be us
 This website will have a place for AECO Projects, Users, To-do lists, and an IFC model viewer. But first, we need to design the basic static website, which is this module's challenge.
 
 [Module 1 Project](https://thebimsider.github.io/That_Open_Company_Courses/Mod1/)
+
+### Module 2: Creating Interactive Websites
+
+### Module 3: Creating BIM Apps
+
+### Module 4: Creating Reactive Apps
