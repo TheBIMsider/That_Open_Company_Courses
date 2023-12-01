@@ -10,6 +10,7 @@ This is a 16-lesson module with the final result being a static website to be us
 This website will have a place for AECO Projects, Users, To-do lists, and an IFC model viewer. But first, we need to design the basic static website, which is this module's challenge.
 
 This is the final project from Module 1, no JavaScript yet so no working buttons to show other pages
+
 [Module 1 Project](https://thebimsider.github.io/That_Open_Company_Courses/Mod1/)
 
 Here are some examples of other pages and forms
