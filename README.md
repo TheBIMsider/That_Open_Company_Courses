@@ -12,7 +12,10 @@ This website will have a place for AECO Projects, Users, To-do lists, and an IFC
 [Module 1 Project](https://thebimsider.github.io/That_Open_Company_Courses/Mod1/)
 
 ### Module 2: Creating Interactive Websites
+More coming soon
 
 ### Module 3: Creating BIM Apps
+More coming soon
 
 ### Module 4: Creating Reactive Apps
+More coming soon
